@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "eyebrow": "Building on the success of IronPDF for .NET",
+    "title": "IronPDF for C++",
+    "subtitle": "Beta Software Program",
+    "meta": "Coming soon"
+  },
+  "features": [
+    "Generate PDFs from HTML in C++",
+    "Combine, split, and modify PDFs quickly in C++",
+    "Extract text and images from PDFs using C++"
+  ],
+  "cta": {
+    "title": "Be one of the first",
+    "subtitle": "Sign up NOW to get early access!"
+  },
+  "earlyAccess": [
+    {
+      "status": "Released",
+      "language": "Java",
+      "image": "images/Ilustration/IronPdf-vector.png"
+    },
+    {
+      "status": "Coming Soon",
+      "language": "Python",
+      "image": "images/Ilustration/IronPdf-vector.png"
+    },
+    {
+      "status": "Coming Soon",
+      "language": "NodeJs",
+      "image": "images/Ilustration/IronPdf-vector.png"
+    }
+  ]
+}
