@@ -140,7 +140,12 @@ http://localhost:8080
     }
   ]
 }
+```
 
-cp .env.example .env
+---
+
+## Run
+```cp .env.example .env
 composer install
 php spark serve
+```
