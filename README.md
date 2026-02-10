@@ -149,3 +149,8 @@ http://localhost:8080
 composer install
 php spark serve
 ```
+
+## Demo Screenshots
+
+![Hero section](public/images/demo-hero.png)
+![Early Access Cards](public/images/demo-cards.png)
